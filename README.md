@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-## 🏆 Sloved.ac TIER 🏆
+## 🏆 Sloved.ac 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkp20007)](https://solved.ac/pkp20007/)
 &nbsp;
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pkp20007&theme=warm)
