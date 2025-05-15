@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=psw`s%20github&fontColor=c6d0ce&textBg=false&fontSize=70)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=+visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&letterSpacing=fast&duration=4000&pause=800&center=true&vCenter=true&random=true&width=800&lines=Welcome+To+My+Github;Hello+World;ALGORITHM;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;+PLANT+GRASS+WITH+ME;Lorem+Ipsum;Level+UP;Internet%2C+is+that+still+a+thing%3F;+Laziness%2C+Eccentricity%2C+and+Pride)](https://git.io/typing-svg)
 
 ## ⛩ Language Skill ⛩
