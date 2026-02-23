@@ -51,8 +51,8 @@
 <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h3>
   <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=lright-psw&bg_color=000000&title_color=ffffff&text_color=ffffff&show_icons=true"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lright-psw&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lright-psw&show_icons=true&theme=dark" alt="lright-psw's GitHub stats" height="170px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lright-psw&layout=compact&theme=dark" alt="lright-psw's Top Langs" height="170px" />
   </div> 
 </div>
     
