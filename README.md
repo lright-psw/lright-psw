@@ -51,8 +51,13 @@
 <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h3>
   <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=lright-psw&show_icons=true&theme=dark" alt="lright-psw's GitHub stats" height="170px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lright-psw&layout=compact&theme=dark" alt="lright-psw's Top Langs" height="170px" />
+    <!-- 지금 터짐... https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#responsive-card-theme#gh-dark-mode-only-->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=lright-psw&show_icons=true&theme=dark" alt="lright-psw's GitHub stats" height="170px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lright-psw&layout=compact&theme=dark" alt="lright-psw's Top Langs" height="170px" /> -->
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img src="https://github-stats-extended.vercel.app/api?username=lright-psw&show_icons=true&theme=dark" alt="lright-psw's GitHub stats" height="170px" />
+    </a>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lright-psw&layout=compact&theme=dark" alt="lright-psw's Top Langs" height="170px" />
   </div> 
 </div>
     
